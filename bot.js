@@ -27,5 +27,5 @@ client.on('message', message => {
       message.channel.sendMessage(`**:white_check_mark:   ${argresult}**`)
   }
   });
-client.login("token_bot") 
+client.login("BOT_TOKEN") 
 
